@@ -3,6 +3,11 @@
 }
 body{
   font-family: 'Press Start 2P', sans-serif;
+  background-image: url("/images/cart-background.jpg") ;
+  color: white;
+}
+button {
+  color: black
 }
 
 .final-total{
